@@ -2,9 +2,9 @@ Quantitative aptitude is a branch of mathematics focused on numerical problem-so
 
 ## Topics
 
-* Clocks
-* Problems on Ages
-* Pipes and Cisterns
-* Problems on Trains
-* Time and Distance
-* Time and Work
+* [Clocks](clocks)
+* [Problems on Ages](problems-on-ages)
+* [Pipes and Cisterns]
+* [Problems on Trains]
+* [Time and Distance]
+* [Time and Work]
